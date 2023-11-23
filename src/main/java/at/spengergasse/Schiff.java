@@ -9,7 +9,7 @@ public class Schiff{
     private Pirat pirat4;
     private Pirat pirat5;
     private Pirat pirat6;
-    
+    private Pirat [] pirat;
     private char typ;
     
     public Schiff(char typ) {
@@ -18,6 +18,7 @@ public class Schiff{
     
     public void setTyp(char typ) {
         this.typ = typ;
+        Pirat [] pirat = new Pirat[5];
     }
     
     
@@ -25,7 +26,7 @@ public class Schiff{
         
         if(typ == 's') {
             
-            // Beim typ s d�rfen nur 3 Piraten aufgenommen werden
+            // Beim typ s dürfen nur 3 Piraten aufgenommen werden
             if(this.kapitaen == null) {
                 this.kapitaen = pirat;
             } else if(this.pirat2 == null) {
