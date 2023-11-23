@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ae8de3-8df8-4b32-a660-f5a31bdd696c" name="Changes" comment="">
+    <list default="true" id="48ae8de3-8df8-4b32-a660-f5a31bdd696c" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/at/spengergasse/Pirat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/spengergasse/Pirat.java" afterDir="false" />
@@ -104,7 +104,7 @@
       <workItem from="1700476058826" duration="2171000" />
       <workItem from="1700492153589" duration="5929000" />
       <workItem from="1700561387220" duration="319000" />
-      <workItem from="1700749650485" duration="1518000" />
+      <workItem from="1700749650485" duration="2207000" />
     </task>
     <task id="LOCAL-00001" summary="first commit piraten">
       <option name="closed" value="true" />
@@ -122,7 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit piraten" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit piraten" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
